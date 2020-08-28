@@ -1,25 +1,8 @@
 
-An h1 header
+This is Luigi's Mansion.
 ============
+###### *August 28th, 2020*
 
-Paragraphs are separated by a blank line.
+Luigi was the first of us to live. He was a strong spinach plant, but not strong enough. Neglected by his master toward the end of his life, Luigi died of drought and heat. This place has been made after his namesake, so that despite having no children, Luigi will be remembered.
 
-2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
-look like:
-
-  * this one
-  * that one
-  * the other one
-
-Note that --- not considering the asterisk --- the actual text
-content starts at 4-columns in.
-
-> Block quotes are
-> written like so.
->
-> They can span multiple paragraphs,
-> if you like.
-
-Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., "it's all
-in chapters 12--14"). Three dots ... will be converted to an ellipsis.
-Unicode is supported. ☺
+~Carla
