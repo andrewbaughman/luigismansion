@@ -3,16 +3,33 @@
   <head>
     <title>Luigi's Mansion</title>
     <style>
+        body {
+          background-color: #ddeedd;
+          margin: 0;
+        }
+      
+      .content {
+        width: 60%;
+        background-color: #ffffff;
+        padding: 0px;
+        margin: 0% 20% 0% 20%;
+      }
+      
+      
+      
         ul {
           list-style-type: none;
           margin: 0;
           padding: 0;
           overflow: hidden;
           background-color: #333;
+          text-align: center;
         }
 
         li {
-          float: left;
+          margin: 0;
+          width: 60px;
+          display: inline;
         }
 
         li a, .dropbtn {
@@ -53,22 +70,32 @@
         .dropdown:hover .dropdown-content {
           display: block;
         }
+      
+      #header {
+        font-size: 40px;
+        text-align: center;
+        margin: 0;
+        padding: 30px 0px 30px 0px;
+        background-color: #00cccc;
+      }
     </style>
   </head>
   <body>
+    <p id="header">Luigi's Mansion</p>
     <ul>
       <li><a href="index.html">Home</a></li>
       <li><a href="blog.html">Blog</a></li>
       <li><a href="contact.html">Contact</a></li>
       <li><a href="about.html">About</a></li>
     </ul>
-    <h1>Things I've learned from COM 343</h1>
-    <p>September 6, 2020</p>
-    <p>Contact time</p>
-    <p>~Andrew, not Carla</p>
+    <div class="content">
+      <div class="post" style="padding: 50px 200px 50px 50px; margin-top: 20px;">
+        <h1 style="margin-left: 20px; margin-top: 0;">Contact</h1>
+        <i>September 6, 2020</i>
+        <p style="line-height: 1.5;">Since taking the first week of Content Management, I have completely redesigned my website to reflect what I've learned. I want the site to be clear, appealing, and clutter free.</p>
+        <p style="font-weight: bold;">~Andrew</p>
+      </div>
+    </div>
   </body>
-
-
-
 </html>
   
